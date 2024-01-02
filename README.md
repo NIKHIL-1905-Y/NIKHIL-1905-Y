@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-1905-y&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-1905-y" /> </p>
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **Movix App using React js**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://nikhil-1905-y.github.io/NIKHIL-PROFILE/](https://nikhil-1905-y.github.io/NIKHIL-PROFILE/)
 
